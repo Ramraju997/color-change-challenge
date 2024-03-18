@@ -1,0 +1,12 @@
+.container-element {
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+}
+
+.container-text {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
